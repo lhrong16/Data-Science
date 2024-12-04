@@ -6,3 +6,4 @@
 # 5. Data Preprocessing Part 1 2024 (Week 5)
 # 6. Data Preprocessing Part 2 2024 (Week 6)
 # 7. Exploratory Data Analysis (EDA) Part 1 (Week 7)
+# 8. Exploratory Data Analysis (EDA) Part 2 (Week 8)
